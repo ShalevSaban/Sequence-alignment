@@ -1,0 +1,5 @@
+Results : 
+  seq 1 :   offset  365   mutant [8,3] score : 272.000000  
+  seq 2 :   offset  128   mutant [1201,231] score : 2383.500000  
+  seq 3 :   offset  857   mutant [458,18] score : 343.299774  
+  seq 4 :   offset  975   mutant [367,358] score : 750.000000  
